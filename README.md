@@ -294,7 +294,9 @@ single line
 # and me too!
 ```
 
-While testing it yourself, you might find that you can't use multi line comments. This is because
+While testing it yourself, you might find that you can't use multi line comments.
+
+This is because
 ```lua
 [[
 ]]
