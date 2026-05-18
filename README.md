@@ -1,4 +1,4 @@
-say I want this custom table function 
+say I want this custom table. function 
 ```
 table.copy = function(TABLE)
 	local Table = {}
