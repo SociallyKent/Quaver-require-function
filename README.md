@@ -250,6 +250,7 @@ function awake()
 	mouse = require("mouse")
 	board = require("board")
 end
+local Reader = read()
 function require(CODE)
 	local Code = Reader[CODE]
 	Code = Code
